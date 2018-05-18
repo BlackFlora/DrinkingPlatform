@@ -1,7 +1,7 @@
 # Drinking Platform
 
 <div align="center">
-<img width=300 src="https://raw.githubusercontent.com/BlackFlora/AGMonotone/master/IMG/0.png">
+<img width=300 src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/111.jpg">
 
 <br> <br>
 
@@ -15,9 +15,11 @@
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/BlackFlora/AGMonotone/master/IMG/0001.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/BlackFlora/AGMonotone/master/IMG/0002.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/BlackFlora/AGMonotone/master/IMG/0003.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/1.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/2.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/3.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/4.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/BlackFlora/DrinkingPlatform/master/IMG/5.JPG"> </td>
 </tr>
 
 <tr>
